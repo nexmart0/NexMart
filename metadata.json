@@ -1,0 +1,6 @@
+{
+  "name": "NexMart - Premium E-Commerce Store",
+  "description": "Fast, modern, and seamless e-commerce store with real-time inventory, guest checkout, and an advanced store administration dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

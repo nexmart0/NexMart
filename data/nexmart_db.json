@@ -1,0 +1,501 @@
+{
+  "admin": {
+    "id": "admin-master",
+    "email": "admin@nexmart.com",
+    "name": "NexMart Store Manager",
+    "role": "superadmin",
+    "salt": "dd284433c50186455ba426420533e543",
+    "passwordHash": "491e1f8cb4e90ba349e5aaba17e4441865fde4512fbdd704ba5eda6ad25b2a9007c7b6131dd81d81cf4867804b3b4c95c34b7c27370455ab86fd9af98ba31336",
+    "token": "59c9f0cac10ea5feb3bf534504110a31c16f6ccb204d69a5dfaf8c94d7dd3297",
+    "tokenExpiresAt": 1792244268229,
+    "passwordInitializedWithNiShAlDaMoR": true,
+    "tokens": [
+      {
+        "token": "5d72b5f9f3f6898620e718643ddf8d418ccca904cfc34213953e350f1dcafb18",
+        "expiresAt": 1792243637685
+      },
+      {
+        "token": "b1ef00c05a3e60baa28550eb338567461d3510b4c3edf7365edf565a68f3635c",
+        "expiresAt": 1792243648470
+      },
+      {
+        "token": "4529c08dd7e11e29c31086eb684c56f819cf6fbfbc40595967828e620b8a527e",
+        "expiresAt": 1792243925075
+      },
+      {
+        "token": "023b1230da9adc9ccecc1dd622fbdd3aba821d4d942cacbaaac8858dbbc72673",
+        "expiresAt": 1792244242906
+      },
+      {
+        "token": "dcd61ed10a38bbb470f2f350e4e40c7e5286b33575f6505a0ef427b765b8409e",
+        "expiresAt": 1792244257159
+      },
+      {
+        "token": "59c9f0cac10ea5feb3bf534504110a31c16f6ccb204d69a5dfaf8c94d7dd3297",
+        "expiresAt": 1792244268229
+      }
+    ]
+  },
+  "settings": {
+    "storeName": "NexMart",
+    "tagline": "Your Trusted Online Shopping Destination",
+    "logoText": "NexMart",
+    "logoBadge": "MP Verified Store",
+    "themeColor": "indigo",
+    "announcementBar": {
+      "enabled": true,
+      "text": "⚡ Free Express Delivery on orders above ₹499 in Dewas, Indore, Hatpipliya & Bagli! Cash on Delivery Available.",
+      "link": "#newarrivals"
+    },
+    "contact": {
+      "phone": "+91 98260 12345",
+      "email": "support@nexmart.in",
+      "address": "NexMart Commercial Hub, A.B. Road, Dewas - 455001, Madhya Pradesh",
+      "workingHours": "Mon - Sun: 9:00 AM to 9:00 PM IST"
+    },
+    "policies": {
+      "aboutUs": "NexMart was founded with a singular mission: to bring authentic, high-quality, verified lifestyle and electronic products straight to customers across Madhya Pradesh. We operate local fulfillment hubs ensuring speedy dispatch, genuine product guarantees, and hassle-free Cash on Delivery.",
+      "privacyPolicy": "We respect your confidentiality. NexMart strictly uses customer details (name, delivery address, phone number) exclusively for processing order fulfillment and logistics updates. We never sell, rent, or distribute your private personal data to external advertisers.",
+      "termsAndConditions": "By placing an order on NexMart, you confirm that you are authorized to place orders and have supplied accurate shipping details within our active service territories. All items are dispatched with authentic tax invoices.",
+      "returnPolicy": "We offer an easy 7-day doorstep replacement or refund guarantee on all products if received damaged, defective, or noticeably different from the product description. Simply contact our support team with your Order ID.",
+      "shippingPolicy": "We currently deliver directly across Dewas, Indore, Hatpipliya, and Bagli. Orders placed before 4:00 PM are dispatched on the same day. Standard delivery completes within 24 to 48 hours with live SMS tracking."
+    },
+    "socialLinks": {
+      "whatsapp": "https://wa.me/919826012345",
+      "instagram": "https://instagram.com/nexmart.official",
+      "facebook": "https://facebook.com/nexmart.store",
+      "twitter": "https://twitter.com/nexmart_in"
+    },
+    "payment": {
+      "codEnabled": true,
+      "onlineEnabled": false,
+      "freeDeliveryThreshold": 499,
+      "deliveryCharge": 40
+    }
+  },
+  "categories": [
+    {
+      "id": "cat-1",
+      "name": "Electronics & Audio",
+      "slug": "electronics-audio",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=600&q=80",
+      "description": "Crisp audio gear, wireless wearables and smart accessories."
+    },
+    {
+      "id": "cat-2",
+      "name": "Smart Gadgets",
+      "slug": "smart-gadgets",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=600&q=80",
+      "description": "Modern lifestyle wearables, fitness trackers and power solutions."
+    },
+    {
+      "id": "cat-3",
+      "name": "Fashion & Apparel",
+      "slug": "fashion-apparel",
+      "image": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=600&q=80",
+      "description": "Premium casual wear and handcrafted modern essentials."
+    },
+    {
+      "id": "cat-4",
+      "name": "Home & Kitchen",
+      "slug": "home-kitchen",
+      "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=600&q=80",
+      "description": "Elevate your daily living with functional home and drinkware."
+    },
+    {
+      "id": "cat-5",
+      "name": "Personal Care",
+      "slug": "personal-care",
+      "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=600&q=80",
+      "description": "Grooming and wellness designed for your daily routine."
+    }
+  ],
+  "banners": [
+    {
+      "id": "ban-1",
+      "title": "Supercharge Your Audio Experience",
+      "subtitle": "Active Noise Cancelling Wireless Headphones starting at ₹2,499. Exclusive Madhya Pradesh fast delivery.",
+      "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=1600&q=85",
+      "buttonText": "Shop Electronics",
+      "link": "#category-electronics-audio",
+      "badge": "Limited Time Deal • 40% OFF",
+      "isActive": true,
+      "order": 1
+    },
+    {
+      "id": "ban-2",
+      "title": "Smart Tech For Everyday Peak Living",
+      "subtitle": "From AMOLED smartwatches to ultra-compact fast powerbanks. Guaranteed warranty and COD.",
+      "image": "https://images.unsplash.com/photo-1508057198894-247b23fe5ade?auto=format&fit=crop&w=1600&q=85",
+      "buttonText": "Explore Smart Gadgets",
+      "link": "#category-smart-gadgets",
+      "badge": "Trending Now",
+      "isActive": true,
+      "order": 2
+    },
+    {
+      "id": "ban-3",
+      "title": "Minimal Home & Lifestyle Essentials",
+      "subtitle": "Handpicked insulated steel thermoware and modern artisan kitchenware at unmissable prices.",
+      "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1600&q=85",
+      "buttonText": "View Home Collection",
+      "link": "#category-home-kitchen",
+      "badge": "New In Store",
+      "isActive": true,
+      "order": 3
+    }
+  ],
+  "sections": [
+    {
+      "id": "sec-newarrivals",
+      "key": "newarrivals",
+      "title": "Best Seller",
+      "subtitle": "Fresh drops just added to the NexMart catalog this week",
+      "isVisible": true,
+      "order": 1
+    }
+  ],
+  "products": [
+    {
+      "name": "Smart watch",
+      "category": "Electronics & Audio",
+      "price": 999,
+      "originalPrice": 1499,
+      "discountPercent": 33,
+      "stock": 16,
+      "images": [
+        "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80"
+      ],
+      "description": "High-quality authentic product with doorstep express delivery across Madhya Pradesh.",
+      "specifications": [
+        {
+          "key": "Warranty",
+          "value": "1 Year Brand Replacement"
+        },
+        {
+          "key": "Package Contains",
+          "value": "1 Unit with User Manual & Invoice"
+        }
+      ],
+      "isFeatured": false,
+      "isBestSeller": false,
+      "isNewArrival": true,
+      "isPublished": true,
+      "id": "prod-1791638188480",
+      "slug": "smart-watch-770",
+      "createdAt": "2026-10-10T13:16:28.480Z",
+      "updatedAt": "2026-10-10T13:18:24.155Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "NEX-20261010-4958",
+      "customer": {
+        "fullName": "Vikram Singh",
+        "mobileNumber": "9826112233",
+        "pincode": "455001",
+        "city": "Dewas",
+        "state": "Madhya Pradesh",
+        "houseNo": "15",
+        "roadName": "Main Road"
+      },
+      "items": [
+        {
+          "productId": "prod-1791638188480",
+          "productName": "Smart watch",
+          "productImage": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80",
+          "price": 999,
+          "originalPrice": 1499,
+          "quantity": 1,
+          "subtotal": 999
+        }
+      ],
+      "subtotal": 999,
+      "deliveryFee": 0,
+      "codFee": 0,
+      "totalAmount": 999,
+      "paymentMethod": "online",
+      "paymentStatus": "pending",
+      "orderStatus": "Pending",
+      "statusHistory": [
+        {
+          "status": "Pending",
+          "timestamp": "2026-10-10T13:18:24.155Z",
+          "note": "Order placed via Online Payment."
+        }
+      ],
+      "createdAt": "2026-10-10T13:18:24.155Z"
+    },
+    {
+      "id": "NEX-20261010-5680",
+      "customer": {
+        "fullName": "Vikram Singh",
+        "mobileNumber": "9826112233",
+        "pincode": "455001",
+        "city": "Dewas",
+        "state": "Madhya Pradesh",
+        "houseNo": "15",
+        "roadName": "Main Road"
+      },
+      "items": [
+        {
+          "productId": "prod-1791638188480",
+          "productName": "Smart watch",
+          "productImage": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80",
+          "price": 999,
+          "originalPrice": 1499,
+          "quantity": 2,
+          "subtotal": 1998
+        }
+      ],
+      "subtotal": 1998,
+      "deliveryFee": 0,
+      "codFee": 50,
+      "totalAmount": 2048,
+      "paymentMethod": "cod",
+      "paymentStatus": "pending",
+      "orderStatus": "Pending",
+      "statusHistory": [
+        {
+          "status": "Pending",
+          "timestamp": "2026-10-10T13:18:19.195Z",
+          "note": "Order placed via Cash on Delivery (₹50 COD charge applied)."
+        }
+      ],
+      "createdAt": "2026-10-10T13:18:19.195Z"
+    },
+    {
+      "id": "NEX-20261010-2994",
+      "customer": {
+        "fullName": "Vikram Singh",
+        "mobileNumber": "9826112233",
+        "pincode": "455001",
+        "city": "Dewas",
+        "state": "Madhya Pradesh",
+        "houseNo": "15",
+        "roadName": "Main Road"
+      },
+      "items": [
+        {
+          "productId": "prod-1791638188480",
+          "productName": "Smart watch",
+          "productImage": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80",
+          "price": 999,
+          "originalPrice": 1499,
+          "quantity": 1,
+          "subtotal": 999
+        }
+      ],
+      "subtotal": 999,
+      "deliveryFee": 0,
+      "codFee": 50,
+      "totalAmount": 1049,
+      "paymentMethod": "cod",
+      "paymentStatus": "pending",
+      "orderStatus": "Pending",
+      "statusHistory": [
+        {
+          "status": "Pending",
+          "timestamp": "2026-10-10T13:18:13.846Z",
+          "note": "Order placed via Cash on Delivery (₹50 COD charge applied)."
+        }
+      ],
+      "createdAt": "2026-10-10T13:18:13.846Z"
+    },
+    {
+      "id": "NEX-20261010-4626",
+      "customer": {
+        "fullName": "Damor Ji",
+        "mobileNumber": "7772809503",
+        "pincode": "455223",
+        "city": "Dewas",
+        "state": "Madhya Pradesh",
+        "houseNo": "Nevri",
+        "roadName": "Indore"
+      },
+      "items": [
+        {
+          "productId": "prod-101",
+          "productName": "NexPulse Pro Wireless ANC Headphones",
+          "productImage": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80",
+          "price": 2499,
+          "originalPrice": 4999,
+          "quantity": 1,
+          "subtotal": 2499
+        }
+      ],
+      "subtotal": 2499,
+      "deliveryFee": 0,
+      "totalAmount": 2499,
+      "paymentMethod": "cod",
+      "paymentStatus": "pending",
+      "orderStatus": "Pending",
+      "statusHistory": [
+        {
+          "status": "Pending",
+          "timestamp": "2026-10-10T13:11:24.570Z",
+          "note": "Order placed via Cash on Delivery."
+        }
+      ],
+      "createdAt": "2026-10-10T13:11:24.570Z",
+      "codFee": 50
+    },
+    {
+      "id": "NEX-20261010-4554",
+      "customer": {
+        "fullName": "Amit Patel",
+        "mobileNumber": "9826998877",
+        "pincode": "455001",
+        "city": "Dewas",
+        "state": "Madhya Pradesh",
+        "houseNo": "12, Shanti Kunj",
+        "roadName": "Station Road"
+      },
+      "items": [
+        {
+          "productId": "prod-101",
+          "productName": "NexPulse Pro Wireless ANC Headphones",
+          "productImage": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80",
+          "price": 2499,
+          "originalPrice": 4999,
+          "quantity": 1,
+          "subtotal": 2499
+        }
+      ],
+      "subtotal": 2499,
+      "deliveryFee": 0,
+      "totalAmount": 2499,
+      "paymentMethod": "cod",
+      "paymentStatus": "pending",
+      "orderStatus": "Pending",
+      "statusHistory": [
+        {
+          "status": "Pending",
+          "timestamp": "2026-10-10T13:01:51.799Z",
+          "note": "Order placed via Cash on Delivery."
+        }
+      ],
+      "createdAt": "2026-10-10T13:01:51.799Z",
+      "codFee": 50
+    },
+    {
+      "id": "NEX-20261008-8012",
+      "customer": {
+        "fullName": "Rahul Sharma",
+        "mobileNumber": "9826123456",
+        "pincode": "455001",
+        "city": "Dewas",
+        "state": "Madhya Pradesh",
+        "houseNo": "Flat 302, Royal Residency",
+        "roadName": "Moti Bungalow Road"
+      },
+      "items": [
+        {
+          "productId": "prod-101",
+          "productName": "NexPulse Pro Wireless ANC Headphones",
+          "productImage": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80",
+          "price": 2499,
+          "quantity": 1,
+          "subtotal": 2499
+        }
+      ],
+      "subtotal": 2499,
+      "deliveryFee": 0,
+      "totalAmount": 2499,
+      "paymentMethod": "cod",
+      "paymentStatus": "pending",
+      "orderStatus": "Delivered",
+      "trackingNumber": "DEL-MP-98124",
+      "statusHistory": [
+        {
+          "status": "Pending",
+          "timestamp": "2026-10-08T10:15:00.000Z",
+          "note": "Order placed via Cash on Delivery"
+        },
+        {
+          "status": "Confirmed",
+          "timestamp": "2026-10-08T10:30:00.000Z",
+          "note": "Order confirmed by store"
+        },
+        {
+          "status": "Processing",
+          "timestamp": "2026-10-08T11:00:00.000Z",
+          "note": "Packed at Dewas fulfillment center"
+        },
+        {
+          "status": "Shipped",
+          "timestamp": "2026-10-08T14:00:00.000Z",
+          "note": "Dispatched with local rider"
+        },
+        {
+          "status": "Delivered",
+          "timestamp": "2026-10-09T11:30:00.000Z",
+          "note": "Handed over to customer Rahul Sharma"
+        }
+      ],
+      "createdAt": "2026-10-08T10:15:00.000Z",
+      "codFee": 50
+    },
+    {
+      "id": "NEX-20261009-4190",
+      "customer": {
+        "fullName": "Pooja Verma",
+        "mobileNumber": "9425098765",
+        "pincode": "452001",
+        "city": "Indore",
+        "state": "Madhya Pradesh",
+        "houseNo": "House 45",
+        "roadName": "Vijay Nagar Main Road"
+      },
+      "items": [
+        {
+          "productId": "prod-102",
+          "productName": "ApexFit Horizon AMOLED Smartwatch",
+          "productImage": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80",
+          "price": 1899,
+          "quantity": 1,
+          "subtotal": 1899
+        },
+        {
+          "productId": "prod-104",
+          "productName": "ThermalGuard Double Wall Flask 1000ml",
+          "productImage": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=800&q=80",
+          "price": 699,
+          "quantity": 1,
+          "subtotal": 699
+        }
+      ],
+      "subtotal": 2598,
+      "deliveryFee": 0,
+      "totalAmount": 2598,
+      "paymentMethod": "cod",
+      "paymentStatus": "pending",
+      "orderStatus": "Shipped",
+      "trackingNumber": "TRK-IND-24891",
+      "statusHistory": [
+        {
+          "status": "Pending",
+          "timestamp": "2026-10-09T09:20:00.000Z",
+          "note": "Order placed via Cash on Delivery"
+        },
+        {
+          "status": "Confirmed",
+          "timestamp": "2026-10-09T09:45:00.000Z",
+          "note": "Customer contact verified"
+        },
+        {
+          "status": "Processing",
+          "timestamp": "2026-10-09T10:30:00.000Z",
+          "note": "Quality check passed"
+        },
+        {
+          "status": "Shipped",
+          "timestamp": "2026-10-09T15:00:00.000Z",
+          "note": "In transit to Indore Hub"
+        }
+      ],
+      "createdAt": "2026-10-09T09:20:00.000Z",
+      "codFee": 50
+    }
+  ]
+}
